@@ -4,3 +4,5 @@ using TempGitShowoff;
 //Console.WriteLine("Hello, World!");
 
 "hello world".Print();
+
+1.5.Print();
