@@ -6,3 +6,5 @@ using TempGitShowoff;
 "hello world!!!".Print();
 
 1.5.Print();
+
+2.Print();
